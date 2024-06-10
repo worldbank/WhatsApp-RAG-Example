@@ -23,7 +23,7 @@ In order to edit the Python code, it is recommended that you have a text editor.
 In this example, we apply the knowledge we learned in the LangChain tutorial to develop a RAG based Chatbot which utilises documents from [WHO disease outbreak news](https://www.who.int/emergencies/disease-outbreak-news) to answer questions about latest disease outbreaks across the globe. 
 
 ## Setup Development Environment
-
+Download this repository as a zipped folder or clone it if you are familiar with Git. Once you have the folder on your computer, navigate to that folder and execute the commands below.
 ### 1. Python virtual environment
 
 Create a Python virtual environment to use for this project.
